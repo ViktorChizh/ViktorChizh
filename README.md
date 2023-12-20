@@ -41,5 +41,5 @@
     <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="viktorleonidovich.chizh@gmail.com">
-    <img src="https://img.shields.io/badge/G-mail-red?style=for-the-badge&logo=G-mail&logoColor=white" alt="G-mail"/>
+    viktorleonidovich.chizh@gmail.com
   </a>
