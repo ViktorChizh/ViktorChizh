@@ -41,7 +41,7 @@
 Контакты:
 
   <a href="https://www.linkedin.com/in/ViktorChizh/">
-    <img src="https://img.shields.io/badge/LinkedIn-midleblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-cobalt?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </br>  
   <a href="https://t.me/ViktorChizh">
