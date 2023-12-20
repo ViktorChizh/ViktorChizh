@@ -31,20 +31,14 @@
 </div>
 
 ---
-<div align="end" wrap="nowrap">
-  <div>
-     Мои цели: 
+
+Мои цели: 
 
 заниматься программированием 
 
 изучать новые технологи 
 
 стать Full-stack разработчиком 
-  </div>
-<div>
-  <img src="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR" width="70%" height="250"/>
-    </div>
-</div>
 
 ---
 
