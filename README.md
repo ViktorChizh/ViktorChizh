@@ -1,5 +1,5 @@
-[<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250" object-fit='cover' />
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
 
 ---
@@ -36,9 +36,7 @@
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/120px-WebStorm_Icon.svg.png" title="VScode" alt="VScode" width="40" height="40"/>&nbsp; -->
 </div>
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh)   ![](https://komarev.com/ghpvc/?username=ViktorChizh)
 
 ---
 
@@ -56,5 +54,4 @@
 
 <a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-[![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh)   ![](https://komarev.com/ghpvc/?username=ViktorChizh)
 
