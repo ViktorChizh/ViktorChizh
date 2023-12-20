@@ -4,7 +4,7 @@
 
 ---
 
-Привет, меня зовут Виктор.👋          Я Front-end разработчик  <a href='https://www.viktorchizh.github.io/portfolio/'> Portfolio </a>
+Привет, меня зовут Виктор.👋          Я Front-end разработчик  <a href='http://www.viktorchizh.github.io/portfolio/'> Portfolio </a>
 
 ---
 
