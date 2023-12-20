@@ -28,7 +28,7 @@
 
 ---
 
-<div>
+<div display="flex">
 <div>
   Мои цели: 
 
