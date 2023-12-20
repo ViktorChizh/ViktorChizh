@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250" object-fit='cover' />
 </div>
 
@@ -38,13 +38,22 @@
 
 ---
 
-Мои цели: 
+<div>
+  <div>
+    Мои цели: 
 
-заниматься программированием 
+    заниматься программированием 
+    
+    изучать новые технологи 
+    
+    стать Full-stack разработчиком  
+  </div>
+  <div>
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-изучать новые технологи 
-
-стать Full-stack разработчиком   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</div>
 
 ---
 
@@ -53,3 +62,4 @@
 <a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
+](url)
