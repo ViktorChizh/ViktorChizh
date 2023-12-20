@@ -31,7 +31,7 @@
 </div>
 
 ---
-<div align="end">
+<div align="end" wrap="nowrap">
   <div>
      Мои цели: 
 
