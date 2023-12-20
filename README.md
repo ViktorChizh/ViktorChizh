@@ -36,7 +36,7 @@
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/120px-WebStorm_Icon.svg.png" title="VScode" alt="VScode" width="40" height="40"/>&nbsp; -->
 </div>
 
-[![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) 
+[![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)   ![](https://komarev.com/ghpvc/?username=ViktorChizh)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViktorChizh&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
