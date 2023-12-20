@@ -42,17 +42,15 @@
   <div>
     Мои цели: 
 
-    заниматься программированием 
-    
-    изучать новые технологи 
-    
-    стать Full-stack разработчиком  
+  заниматься программированием 
+  
+  изучать новые технологи 
+  
+  стать Full-stack разработчиком  
   </div>
-  <div>
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  </div>
 </div>
 
 ---
