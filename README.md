@@ -38,7 +38,7 @@
 
 [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)   ![](https://komarev.com/ghpvc/?username=ViktorChizh)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
