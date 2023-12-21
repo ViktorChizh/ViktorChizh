@@ -10,7 +10,7 @@
 
 ---
 
- <a href='http://viktorchizh.github.io/portfolio/'> Portfolio </a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh)
+ <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh)
 
 ---
 
