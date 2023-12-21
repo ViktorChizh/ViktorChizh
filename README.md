@@ -10,7 +10,7 @@
 
 ---
 
-&nbsp;&nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>   &nbsp;&nbsp;  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh)
+&nbsp;&nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>   &nbsp;&nbsp;  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh) <h1> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
 ---
 
