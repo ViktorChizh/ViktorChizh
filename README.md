@@ -4,15 +4,15 @@
 
 <h1> Привет, меня зовут Виктор. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
-### 💻 : Я Front-end разработчик.  
+### 💻  Я Front-end разработчик.  
 
 ---
 
-&nbsp;&nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>   &nbsp;&nbsp;  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
+### ℹ️  &nbsp;&nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>   &nbsp;&nbsp;  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
 
 ---
 
-### :hammer_and_wrench: Мой стек технологий:
+### :hammer_and_wrench  Мой стек технологий:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
 
 ---
 
-   ### 🎯 : Мои цели: 
+   ### 🎯  Мои цели: 
 
   заниматься программированием 
   
@@ -49,7 +49,7 @@
 
 ---
 
-### 📲 : Контакты:
+### 📲  Контакты:
 
 <a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
