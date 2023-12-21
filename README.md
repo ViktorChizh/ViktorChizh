@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
 
----
-
 <h1> Привет, меня зовут Виктор. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
 ### :fire: Я Front-end разработчик.  
@@ -11,6 +9,7 @@
 ---
 
 &nbsp;&nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>   &nbsp;&nbsp;  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
+
 ---
 
 ### :hammer_and_wrench: Мой стек технологий:
