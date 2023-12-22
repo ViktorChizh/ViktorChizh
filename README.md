@@ -1,10 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
+# Hi there, I'm [Daniil](https://daniilshat.ru/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> 
+### Computer science student, IT news writer from Russia 🇷🇺
 
-<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Привет, меня зовут Виктор.</h1>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик.)](https://git.io/typing-svg)
+<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Привет, меня зовут Виктор.</h1>  
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик.)](https://git.io/typing-svg)
 
 ---
 
