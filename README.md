@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
 
-<div align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /><h2>&nbsp;&nbsp; Привет, меня зовут Виктор.</h2><strong fontSize='20px'>&nbsp;&nbsp;💻&nbsp;&nbsp;Я Front-end разработчик.</strong></div>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /><big>&nbsp;&nbsp; Привет, меня зовут Виктор.<big><strong fontSize='20px'>&nbsp;&nbsp;💻&nbsp;&nbsp;</strong>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Front-end+разработчик.)](https://git.io/typing-svg)
 
  
 
