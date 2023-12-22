@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
 
-<div align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /><h1>&nbsp;&nbsp; Привет, меня зовут Виктор.</h1><h1 whitespace='none'>&nbsp;&nbsp;💻&nbsp;&nbsp;Я Front-end разработчик.</h1></div>
+<div align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /><b>&nbsp;&nbsp; Привет, меня зовут Виктор.</b><b whitespace='none'>&nbsp;&nbsp;💻&nbsp;&nbsp;Я Front-end разработчик.</b></div>
 
  
 
