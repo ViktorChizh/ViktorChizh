@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
 
- # 💻 Привет, меня зовут Виктор. 💻
+ # 🖥️ Привет, меня зовут Виктор. 🖥️
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
