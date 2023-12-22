@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
 
-&nbsp;&nbsp;  <h1> Привет, меня зовут Виктор. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+&nbsp;&nbsp;  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Привет, меня зовут Виктор. </h1>
 
  💻  Я Front-end разработчик.  
 
