@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
 
-<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Привет, меня зовут Виктор.</h1>
+<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Привет, меня зовут Виктор.</h1>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик.)](https://git.io/typing-svg)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик.)](https://git.io/typing-svg)
+
 
 ---
 
