@@ -6,9 +6,11 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
-ℹ️  &nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
+ℹ️  &nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>  &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;     ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
 
-[![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
