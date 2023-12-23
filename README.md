@@ -7,7 +7,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
-ℹ️  &nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>  &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) 
+ℹ️  &nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) 
 
 
 
