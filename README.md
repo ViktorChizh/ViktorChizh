@@ -8,7 +8,7 @@
 
 ---
 
- ℹ️  &nbsp;&nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>   &nbsp;&nbsp;  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp;&nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ ℹ️  &nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a> &nbsp;  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) &nbsp;  ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
