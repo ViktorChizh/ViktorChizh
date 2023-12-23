@@ -5,7 +5,7 @@
 
 # <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a>
  
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=darkblue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
 # ℹ️  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
 
