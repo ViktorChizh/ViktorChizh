@@ -7,7 +7,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
-ℹ️  &nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>  &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;     ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
+ℹ️  &nbsp; <a href='http://viktorchizh.github.io/portfolio/' align="center"> Portfolio </a>  &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) 
 
 
 
@@ -37,7 +37,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/120px-WebStorm_Icon.svg.png" title="VScode" alt="VScode" width="50" height="50"/>&nbsp;
-</div>
+</div> 
+
+&nbsp;     ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
 
 
 <!-- 🎯  Мои цели:                               
