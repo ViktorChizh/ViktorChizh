@@ -3,7 +3,7 @@
 </div>
 
 
- <big>Привет, меня зовут Виктор.</big>
+ ### Привет, меня зовут Виктор.
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💻+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
