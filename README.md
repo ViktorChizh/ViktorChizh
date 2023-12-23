@@ -3,9 +3,9 @@
 </div>
 
 
-# <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a>
+## <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a>
  
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
 # ℹ️  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
 
@@ -15,7 +15,7 @@
 
 ---
 
- # 🛠️  Мой стек технологий: 
+ ## 🛠️  Мой стек технологий: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
@@ -52,7 +52,7 @@
 
 --- 
 
-# 📲  Контакты:
+## 📲  Контакты:
 
 <a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
