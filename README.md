@@ -11,7 +11,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&hide_progress=true) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&hide=contribs,prs)
 
 ---
 
