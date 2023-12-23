@@ -3,7 +3,7 @@
 </div>
 
 
-# <a>Привет, меня зовут Виктор.<a>
+# <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
