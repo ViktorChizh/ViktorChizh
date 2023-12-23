@@ -7,7 +7,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
-# ℹ️  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) 
+# ℹ️  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
@@ -15,7 +15,7 @@
 
 ---
 
-🛠️  Мой стек технологий: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
+🛠️  Мой стек технологий: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
