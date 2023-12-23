@@ -15,7 +15,7 @@
 
 ---
 
-🛠️  Мой стек технологий:
+🛠️  Мой стек технологий: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
@@ -39,7 +39,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/120px-WebStorm_Icon.svg.png" title="VScode" alt="VScode" width="50" height="50"/>&nbsp;
 </div> 
 
-&nbsp;     ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
+
 
 
 <!-- 🎯  Мои цели:                               
