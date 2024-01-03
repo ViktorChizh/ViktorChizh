@@ -15,11 +15,7 @@
 
 ---
 
- ## 🛠️  Мой стек технологий:    <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;
+ ## 🛠️  Мой стек технологий:    <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxD-73xOga0UQ2WYXy--NVfXueTWKyk9qNg&usqp=CAU" title="NextJs" alt="NextJs" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://mobx.js.org/img/mobx.png" title="MobX" alt="MobX" width="50" height="50"/>&nbsp;&nbsp;
