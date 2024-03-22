@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="250"  />
 </div></br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=lightblue&lines=Hi,+I`m+Viktor+-+Frontend+developer.)](https://git.io/typing-svg) </br>
+ <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
+  </a>
+</p></br>
 🛠️  Мой стек технологий и  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> </br>
  <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
@@ -27,7 +31,7 @@
    <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="35" height="35"/>&nbsp;
 </div> 
 🎯  Мои цели: изучать новые технологии, стать Full-stack разработчиком </br>
-
+</br>
 
  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)  &nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <!-- ℹ️ 📲  Контакты:  🖥️++💻 micro small-->
@@ -36,10 +40,3 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=vision-friendly-dark&hide=contribs,prs) -->
    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="35" height="35"/>&nbsp; -->
    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="35" height="35"/>&nbsp; -->
-Для центрирования строки в README.md можно использовать специальные HTML тэги. Для вышеуказанной строки код будет выглядеть следующим образом:
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻">
-  </a>
-</p>
