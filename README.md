@@ -33,9 +33,7 @@
    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="35" height="35"/>&nbsp; -->
    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="35" height="35"/>&nbsp; -->
 </div> 
-🎯  Мои цели: </br>
-    изучать новые технологи                                   
-    стать Full-stack разработчиком
+🎯  Мои цели:     &nbsp;&nbsp; изучать новые технологии, &nbsp;&nbsp;  стать Full-stack разработчиком
 
 📲  Контакты:  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <!-- <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a> -->
