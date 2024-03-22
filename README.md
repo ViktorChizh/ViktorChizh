@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
 
-## <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a>  &nbsp;&nbsp;&nbsp; ℹ️  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) 
+## <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a>  &nbsp;&nbsp;&nbsp; ℹ️  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp;&nbsp;&nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh)
  
-## [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
+##  &nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
