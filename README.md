@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="250"  />
 </div></br>
 
-![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh)  &nbsp;&nbsp;  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=lightblue&lines=Hi,+I`m+Viktor+-+Frontend+developer.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=lightblue&lines=Hi,+I`m+Viktor+-+Frontend+developer.)](https://git.io/typing-svg)
 
 🛠️  Мой стек технологий и  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> </br>
  <div align="center"> 
@@ -27,7 +27,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="35" height="35"/>&nbsp;
 </div> 
-🎯  Мои цели: изучать новые технологии, стать Full-stack разработчиком &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+🎯  Мои цели: изучать новые технологии, стать Full-stack разработчиком <?br>
+<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh) 
 <!-- ℹ️ 📲  Контакты:  🖥️++💻 -->
 <!-- <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a> -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) -->
