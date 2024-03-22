@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div></br>
 
-ℹ️ <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh)  &nbsp;&nbsp;  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=lightblue&lines=Hi,+I`m+Viktor+-+Frontend+developer)](https://git.io/typing-svg)
+ℹ️ <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh)  &nbsp;&nbsp;  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=lightblue&lines=Hi,+I`m+Viktor+-+Frontend+developer.)](https://git.io/typing-svg)
 
  <div align="center"> 🛠️  Мой стек технологий: </br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
