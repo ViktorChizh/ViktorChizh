@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
 </div>
-Привет, меня зовут Виктор. &nbsp;&nbsp;&nbsp;&nbsp;  ℹ️ <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
+Привет, меня зовут Виктор. &nbsp;&nbsp;&nbsp;&nbsp;  ℹ️ <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
+
  <div align="center"> 🛠️  Мой стек технологий: </br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
