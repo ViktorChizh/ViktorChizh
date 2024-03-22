@@ -9,7 +9,7 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=vision-friendly-dark&hide=contribs,prs) -->
- ## 🛠️  Мой стек технологий: <div align="center"> 
+ ##  <div align="center"> 🛠️  Мой стек технологий:
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="30" height="30"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
