@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
   </a>
 </p></br>
+
 ![](https://komarev.com/ghpvc/?username=ViktorChizh)  🛠️  Мой стек технологий и  <a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a>: </br></br>
  <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
