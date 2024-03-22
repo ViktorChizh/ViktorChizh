@@ -40,7 +40,7 @@
    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="50" height="50"/>&nbsp; -->
 </div> 
 
-🎯  Мои цели: 
+🎯  Мои цели: </br>
     изучать новые технологи                                   
     стать Full-stack разработчиком
 
