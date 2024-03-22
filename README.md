@@ -5,7 +5,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=ViktorChizh)  🛠️  Мой стек технологий и  <a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a>:
+&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp;&nbsp;&nbsp; 🛠️  Мой стек технологий и  <a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a>:
  <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
