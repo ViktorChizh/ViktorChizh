@@ -4,7 +4,8 @@
 
 ℹ️ <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh)  &nbsp;&nbsp;  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=lightblue&lines=Hi,+I`m+Viktor+-+Frontend+developer.)](https://git.io/typing-svg)
 
- <div align="center"> 🛠️  Мой стек технологий: </br>
+🛠️  Мой стек технологий: </br>
+ <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
