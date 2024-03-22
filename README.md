@@ -27,7 +27,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="35" height="35"/>&nbsp;
-</div> </br>
+</div>
 🎯  Мои цели: изучать новые технологии, стать Full-stack разработчиком </br>
 </br>
 
