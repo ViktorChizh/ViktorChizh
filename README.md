@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
-</div>
+</div></br>
 
-Привет, меня зовут Виктор. &nbsp;&nbsp;&nbsp;&nbsp;  ℹ️ <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=🖥️+Я+Front-end+разработчик+💻)](https://git.io/typing-svg)
+Привет, меня зовут Виктор. &nbsp;&nbsp;&nbsp;&nbsp;  ℹ️ <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> &nbsp; ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; [![codewars](https://www.codewars.com/users/ViktorChizh/badges/micro)](https://www.codewars.com/users/ViktorChizh) &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=Я+Front-end+разработчик)](https://git.io/typing-svg)
 
  <div align="center"> 🛠️  Мой стек технологий: </br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
@@ -29,6 +29,7 @@
 🎯  Мои цели:     &nbsp;&nbsp; изучать новые технологии, &nbsp;&nbsp;  стать Full-stack разработчиком
 
 📲  Контакты:  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<!-- 🖥️++💻 -->
 <!-- <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a> -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=vision-friendly-dark&hide=contribs,prs) -->
