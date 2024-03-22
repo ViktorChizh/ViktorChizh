@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="250"  />
 </div></br>
-
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=lightblue&lines=Hi,+I`m+Viktor+-+Frontend+developer.)](https://git.io/typing-svg)
-
 🛠️  Мой стек технологий и  <a href='http://viktorchizh.github.io/portfolio/'>  Portfolio </a> </br>
  <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
