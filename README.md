@@ -1,13 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="250"  />
 </div>
-
-![](https://komarev.com/ghpvc/?username=ViktorChizh)  <p align="center">
+ <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
   </a>
 </p></br>
-🛠️  Мой стек технологий и  <a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a>: </br></br>
+![](https://komarev.com/ghpvc/?username=ViktorChizh)  🛠️  Мой стек технологий и  <a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a>: </br></br>
  <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
