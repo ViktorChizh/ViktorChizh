@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="250"  />
 </div>
+
 ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp; &nbsp; 
+
  <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
