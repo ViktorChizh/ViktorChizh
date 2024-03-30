@@ -36,6 +36,6 @@
 <!-- ℹ️ 📲  Контакты:  🖥️++💻 micro small-->
 <!-- <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a> -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=vision-friendly-dark&hide=contribs,prs) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=vision-friendly-dark&hide=contribs,prs)
    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="50" height="50"/>&nbsp; -->
    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="50" height="50"/>&nbsp; -->
