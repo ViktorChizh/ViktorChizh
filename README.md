@@ -36,7 +36,7 @@
 <!-- ℹ️ 📲  Контакты:  🖥️++💻 micro small-->
 <!-- <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a> -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&layout=compact&theme=github_dark_dimmed&border_radius=10)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&card_width=200&hide=contribs)-->
    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="50" height="50"/>&nbsp; ,prs-->
