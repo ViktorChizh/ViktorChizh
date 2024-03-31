@@ -32,7 +32,7 @@
 ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp;&nbsp;&nbsp; 🎯  Мои цели: изучать новые технологии, стать Full-stack разработчиком </br>
 </br>
 
- [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;&nbsp; &nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+ [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;&nbsp; &nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <!-- ℹ️ 📲  Контакты:  🖥️++💻 micro small-->
 <!-- <a href='http://viktorchizh.github.io/portfolio/'>Привет, меня зовут Виктор.<a> -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; -->
