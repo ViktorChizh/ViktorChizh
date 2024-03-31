@@ -38,8 +38,6 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ViktorChizh&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&langs_count=8&show_owner=true&layout=compact&size_weight=1&card_width=400&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400)](https://git.io/streak-stats)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&card_width=200&hide=contribs)-->
    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="50" height="50"/>&nbsp; ,prs-->
