@@ -30,6 +30,7 @@
 </div>
 ✔🔧 Учавствовал в командных проектах: https://github.com/relotech/relowebfrontend, https://github.com/Arenelin/-flash-cards-</br>
 </br>
+
 ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp;&nbsp;&nbsp; 🎯  Мои цели: изучать новые технологии, стать Full-stack разработчиком 
 
 </br>
