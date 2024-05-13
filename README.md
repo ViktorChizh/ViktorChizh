@@ -29,7 +29,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="50" height="50"/>&nbsp;
 </div>
-☑️ Учавствовал в командных проектах: https://github.com/relotech/relowebfrontend, https://github.com/Arenelin/-flash-cards-</br>
+☑️ Учавствовал в командных проектах: http://github.com/relotech/relowebfrontend, http://github.com/Arenelin/-flash-cards-</br>
 </br>
 
 ![](https://komarev.com/ghpvc/?username=ViktorChizh) &nbsp;&nbsp;&nbsp; 🎯  Мои цели: изучать новые технологии, стать Full-stack разработчиком 
