@@ -13,7 +13,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxD-73xOga0UQ2WYXy--NVfXueTWKyk9qNg&usqp=CAU" title="NextJs" alt="NextJs" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, Redux-Toolkit" alt="Redux, Redux-Toolkit" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, RTK, RTK-query" alt="Redux, RTK, RTK-query" width="50" height="50"/>&nbsp;
    <img src="https://www.svgrepo.com/show/354277/redux-saga.svg" title="Redux-Saga" alt="Redux-Saga" width="50" height="50"/>&nbsp;
    <img src="https://mobx.js.org/img/mobx.png" title="MobX" alt="MobX" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
