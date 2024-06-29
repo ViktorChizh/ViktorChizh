@@ -16,19 +16,14 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, RTK, RTK-query" alt="Redux, RTK, RTK-query" width="50" height="50"/>&nbsp;
    <img src="https://www.svgrepo.com/show/354277/redux-saga.svg" title="Redux-Saga" alt="Redux-Saga" width="50" height="50" />&nbsp;
    <img src="https://mobx.js.org/img/mobx.png" title="MobX" alt="MobX" width="50" height="50"/>&nbsp;
-<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp; -->
    <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="50" height="50"/>&nbsp;
-<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp; -->
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="50" height="50"/>&nbsp;
-<!--    <img src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" title="RadixUI" alt="RadixUI" width="50" height="50"/>&nbsp; -->
+   <img src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" title="RadixUI" alt="RadixUI" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-<!--    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/500px-GitHub_Invertocat_Logo.svg.png" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; -->
-<!--    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; -->
-<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; -->
-<!--    <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="50" height="50"/>&nbsp; -->
 </div>
 ☑️ Учавствовал в командных проектах: http://github.com/relotech/relowebfrontend, http://github.com/Arenelin/-flash-cards-</br>
 </br>
@@ -48,3 +43,8 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&card_width=200&hide=contribs)-->
    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="50" height="50"/>&nbsp; ,prs-->
    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="50" height="50"/>&nbsp; -->
+   <!--    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp; -->
+<!--    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/500px-GitHub_Invertocat_Logo.svg.png" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; -->
+<!--    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; -->
+<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp; -->
+<!--    <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="50" height="50"/>&nbsp; -->
