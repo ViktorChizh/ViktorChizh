@@ -39,6 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&langs_count=8&show_owner=true&layout=compact&size_weight=1&card_width=290&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=100&hide_total_contributions=true&hide_longest_streak=true&card_height=190)](https://git.io/streak-stats)&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=daylly&card_width=100&hide_total_contributions=true&hide_longest_streak=true&card_height=190)](https://git.io/streak-stats)&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&card_width=250&card_height=190)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&card_width=250&card_height=190&hide=contribs)
    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="50" height="50"/>&nbsp; ,prs-->
    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="50" height="50"/>&nbsp; -->
