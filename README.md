@@ -16,7 +16,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, Redux-Toolkit, RTK-query, Redux-Saga" alt="Redux, Redux-Toolkit, RTK-query, Redux-Saga" width="50" height="50"/>&nbsp;
    <img src="https://mobx.js.org/img/mobx.png" title="MobX" alt="MobX" width="50" height="50"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp; -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
