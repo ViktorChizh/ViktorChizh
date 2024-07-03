@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&langs_count=8&border_radius=10&show_owner=true&layout=compact&size_weight=1&card_width=310&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) &nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&border_radius=10&show_icons=true&hide_rank=true&line_height=24) &nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=daylly&card_height=190&card_width=215&hide_longest_streak=true)](https://git.io/streak-stats)
 
-<!-- ℹ️ 📲  Контакты:  🖥️++💻 micro small-->
+<!-- ℹ️ 📲💫👨‍💻🌍🌐  Контакты:  🖥️++💻 micro small-->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="48" height="48"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="48" height="48"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="48" height="48"/>&nbsp;-->
