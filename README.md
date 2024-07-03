@@ -5,7 +5,7 @@
   </a>
 </div>
 
-🛠️  Мой стек технологий и  <span style="font-size: 16"><a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a></span>:
+🛠️  Мой стек технологий и  <span style="font-size: 20px"><a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a></span>:
  <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3,SCSS,SASS" alt="CSS3,SCSS,SASS" width="48" height="48"/>&nbsp;
