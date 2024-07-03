@@ -12,7 +12,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-   <img src="https://static-00.iconduck.com/assets.00/brand-nextjs-icon-512x512-iz9ba3mc.png" title="NextJs" alt="NextJs" width="50" height="50"/>&nbsp;
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5DYKBgGR2rx21AcPGa6Q0lrrm5vn8KCvufXYa0TF63ORkI_JjC90uKqjpoZg6-dnZ9hE&usqp=CAU" title="NextJs" alt="NextJs" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, Redux-Toolkit, RTK-query, Redux-Saga" alt="Redux, Redux-Toolkit, RTK-query, Redux-Saga" width="50" height="50"/>&nbsp;
    <img src="https://mobx.js.org/img/mobx.png" title="MobX" alt="MobX" width="50" height="50"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="50" height="50"/>&nbsp;
