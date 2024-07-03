@@ -13,7 +13,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
    <img src="https://static-00.iconduck.com/assets.00/brand-nextjs-icon-512x512-iz9ba3mc.png" title="NextJs" alt="NextJs" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, Redux-Toolkit, RTK-query, Redux-Saga" alt="Redux, Redux-Toolkit, RTK-query, Redux-Saga" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, RTK, RTK-query" alt="Redux, RTK, RTK-query" width="50" height="50"/>&nbsp;
+   <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="50" height="50"/>&nbsp;
    <img src="https://mobx.js.org/img/mobx.png" title="MobX" alt="MobX" width="50" height="50"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="50" height="50"/>&nbsp;
