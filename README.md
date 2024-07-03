@@ -22,7 +22,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </div>
-
+</br>
 <p>🎯  Мои цели: изучать новые технологии, стать Full-stack разработчиком</p> 
 </br>
 
