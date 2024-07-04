@@ -5,7 +5,7 @@
   </a>
 </div>
 
-🛠️ <a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a>  и мой стек технологий:
+# 🛠️ <a href='http://viktorchizh.github.io/portfolio/'>Portfolio</a>  и мой стек технологий:
  <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3,SCSS,SASS" alt="CSS3,SCSS,SASS" width="48" height="48"/>&nbsp;
@@ -24,7 +24,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48"/>&nbsp;
 </div>
 
-## 🎯  Моя цель: стать Full-stack разработчиком
+### 🎯  Моя цель: стать Full-stack разработчиком
 
  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;![](https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge)
 
