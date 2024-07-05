@@ -18,10 +18,10 @@
    <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="48" height="48"/>&nbsp;
    <img src="https://mobx.js.org/img/mobx.png" title="MobX" alt="MobX" width="48" height="48"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="48" height="48"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="48" height="48"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48"/>&nbsp;
 </div>
 
@@ -39,5 +39,5 @@
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48"/>&nbsp;-->
 <!--  <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="48" height="48"/>&nbsp;-->
 <!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/500px-GitHub_Invertocat_Logo.svg.png" title="GitHub" alt="GitHub" width="48" height="48"/> -->
-<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>&nbsp; -->
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48"/>&nbsp; -->
 <!--  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxD-73xOga0UQ2WYXy--NVfXueTWKyk9qNg&usqp=CAU" title="NextJs" alt="NextJs" width="48" height="48"/>&nbsp; -->
