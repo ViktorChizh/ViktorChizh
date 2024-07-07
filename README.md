@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
  
 </div>
-<div align="center">
+<p align="center" size='20px'>
    <a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 Portfolio</a>  и мой стек технологий 🛠️:</br></br>
-</div>
+</p>
 <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3,SCSS,SASS" alt="CSS3,SCSS,SASS" width="48" height="48"/>&nbsp;
