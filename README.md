@@ -1,11 +1,19 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+	.markdown-text{
+		font-size: 20px;
+	}
+</style>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
  
 </div>
-<b align="center" font-size='20pt'>
+<p align="center" class='markdown-text'>
    <a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 Portfolio</a>  и мой стек технологий 🛠️:</br></br>
-</b>
+</p>
 <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3,SCSS,SASS" alt="CSS3,SCSS,SASS" width="48" height="48"/>&nbsp;
