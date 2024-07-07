@@ -4,7 +4,7 @@
  
 </div>
 <p align="center" 
-  ** <a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 Portfolio</a>  и мой стек технологий 🛠️: **</br></br>
+   <a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 **Portfolio**</a>  и мой стек технологий 🛠️: </br></br>
 </p>
 <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
