@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
-    <a href="https://git.io/typing-svg">
+<!--   <a href="https://git.io/typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
-  </a>
+<!--   </a> -->
 </div>
 
 <a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 Portfolio</a>  и мой стек технологий 🛠️:
