@@ -26,7 +26,7 @@
 </br>
 🎯 Моя цель: стать Full-stack developer</br>
 🌐 Принимал участие в командных проектах:&nbsp;Private 🌍 Relocate https://github.com/relotech/relowebfrontend</br>
-  &nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards https://github.com/Arenelin/-flash-cards- &nbsp;&nbsp;&nbsp; 🎴 Inctagram https://github.com/ViktorChizh/inctagram-ui-kit
+🃏 FlashCards https://github.com/Arenelin/-flash-cards- &nbsp;&nbsp;&nbsp; 🎴 Inctagram https://github.com/ViktorChizh/inctagram-ui-kit
 </br></br>
 
  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;![](https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge)
