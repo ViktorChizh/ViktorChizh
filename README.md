@@ -26,7 +26,7 @@
 </br>
 <!-- 🎯 Моя цель: стать Full-stack developer</br> -->
 🌐 Командные проекты:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍 Relocate (private account) https://github.com/relotech/relowebfrontend </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍 Relocate (private account) http://github.com/relotech/relowebfrontend </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards https://github.com/Arenelin/-flash-cards- </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎴 Inctagram https://github.com/somegram-frontend/inctagram-ui-kit
 </br></br>
