@@ -4,7 +4,7 @@
  
 </div>
 <p align="center"> 
-   <a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 Portfolio</a>  и мой стек технологий 🛠️: </br></br>
+   <a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 Portfolio</a>  и мой стек технологий 👨‍🔧: </br></br>
 </p>
 <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
@@ -24,14 +24,18 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48"/>&nbsp;
 </div>
 </br>
-🎯 Моя цель: стать Full-stack developer
+🎯 Моя цель: стать Full-stack developer</br>
+🌐 Принимал участие в командных проектах:</br>
+    [ Private 🌍 Relocate ](https://github.com/relotech/relowebfrontend)</br>
+    [ Public 🃏 FlashCards ](https://github.com/Arenelin/-flash-cards-)</br>
+    [ Public 🎴 Inctagram ](https://github.com/ViktorChizh/inctagram-ui-kit)</br>
 </br></br>
 
  [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;![](https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&langs_count=8&border_radius=10&show_owner=true&layout=compact&size_weight=1&card_width=310&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&border_radius=10&show_icons=true&hide_rank=true&line_height=24)&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=daylly&card_height=190&card_width=210&hide_longest_streak=true)](https://git.io/streak-stats)
 
-<!-- ℹ️ 🎯📲💫👨‍💻🌍🌐  Контакты:  🖥️++💻 micro small-->
+<!-- ℹ️ 🎯🛠️📲💫👨‍💻🌍 Контакты:  🖥️++💻 micro small-->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="48" height="48"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="48" height="48"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="48" height="48"/>&nbsp;-->
