@@ -25,7 +25,7 @@
 </div>
 </br>
 🎯 Моя цель: стать Full-stack developer</br>
-🌐 Принимал участие в командных проектах:&nbsp;Private 🌍 Relocate https://github.com/relotech/relowebfrontend</br>
+🌐 Принимал участие в командных проектах:&nbsp;🌍 Relocate (private account) https://github.com/relotech/relowebfrontend</br>
 🃏 FlashCards https://github.com/Arenelin/-flash-cards- &nbsp;🎴 Inctagram https://github.com/ViktorChizh/inctagram-ui-kit
 </br></br>
 
