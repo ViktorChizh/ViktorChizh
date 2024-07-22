@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
-<a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 Portfolio</a>  и мой стек технологий 👨‍🔧: </br></br>
+<a href='http://viktorchizh.github.io/portfolio/'>👨‍💻 Portfolio</a>  и мой стек технологий 👨‍🔧: </br>
 <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="48" height="48"/>&nbsp;
