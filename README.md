@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
 <div align="center">
+  
 ##   <a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio ℹ</a> 👨‍💻 мой стек технологий 👨‍💻
 </div>
 <div align="center"> 
