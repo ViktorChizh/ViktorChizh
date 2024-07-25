@@ -23,7 +23,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
 </div>
 
- 🎯 Моя цель: стать Full-stack developer [![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) </br>
+[![codewars](https://www.codewars.com/users/ViktorChizh/badges/small)](https://www.codewars.com/users/ViktorChizh) &nbsp;&nbsp;&nbsp;&nbsp; 🎯 Моя цель: стать Full-stack developer </br>
 🌐 Командные проекты:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🌍 Relocate (private) https://github.com/relotech </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards (public) https://github.com/Arenelin/-flash-cards- </br>
