@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
-  <a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio ℹ</a><img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
 
-##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 мой стек технологий 👨‍💻
+##  <div align="center"> 👨‍💻 мой стек технологий 👨‍💻</div>
 <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="45" height="45"/>&nbsp;
@@ -23,14 +23,14 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
 </div>
 
-🎯 Моя цель: стать Full-stack developer</br>
+ 🎯 Моя цель: стать Full-stack developer</br>
 🌐 Командные проекты:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🌍 Relocate (private) https://github.com/relotech </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards (public) https://github.com/Arenelin/-flash-cards- </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎴 Inctagram (public) https://github.com/somegram-frontend/inctagram-ui-kit
 </br></br>
 
- [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;![](https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge)
+ [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh/"><img width="125" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio ℹ</a></a>&nbsp;![](https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&langs_count=8&border_radius=10&show_owner=true&layout=compact&size_weight=1&card_width=310&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&border_radius=10&show_icons=true&hide_rank=true&line_height=24)&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=daylly&card_height=190&card_width=210&hide_longest_streak=true)](https://git.io/streak-stats)
 
@@ -42,4 +42,4 @@
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;-->
 <!--  <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="45" height="45"/>&nbsp;-->
 <!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/500px-GitHub_Invertocat_Logo.svg.png" title="GitHub" alt="GitHub" width="45" height="45"/> -->
-<!--   -->
+<!-- <img width="125" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>  -->
