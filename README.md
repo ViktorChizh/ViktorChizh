@@ -29,7 +29,7 @@
 🌐 Командные проекты:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🌍 Relocate (private) https://github.com/relotech </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎡 Nyan-Dash (private) https://github.com/Nyan-Dash/nyan-spin </br>
-&nbsp;&nbsp;&nbsp;&nbsp;🎴 Inctagram https://github.com/somegram-frontend/inctagram-ui-kit </br>
+&nbsp;&nbsp;&nbsp;&nbsp;🎴 Inctagram https://github.com/somegram-frontend </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards https://github.com/Arenelin/-flash-cards- </br>
 
 [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) <a href="https://www.linkedin.com/in/ViktorChizh/"><img width="122" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"></a><img width="122" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>&nbsp;![](https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge) 
