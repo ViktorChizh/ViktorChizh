@@ -28,7 +28,7 @@
 🎯 Моя цель: стать Full-stack developer </br>
 🌐 Командные проекты:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🌍 Relocate (private) https://github.com/relotech </br>
-&nbsp;&nbsp;&nbsp;&nbsp;🎡 Nyan-Dash (private) https://github.com/Nyan-Dash/nyan-spin </br>
+&nbsp;&nbsp;&nbsp;&nbsp;🎡 Nyan-Dash (private) https://github.com/Nyan-Dash </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎴 Inctagram https://github.com/somegram-frontend </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards https://github.com/Arenelin/-flash-cards- </br>
 
