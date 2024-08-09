@@ -14,7 +14,7 @@
    <img src="https://static-00.iconduck.com/assets.00/brand-nextjs-icon-512x512-iz9ba3mc.png" title="NextJs" alt="NextJs" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, RTK, RTK-query" alt="Redux, RTK, RTK-query" width="42" height="42"/>&nbsp;
    <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="42" height="42"/>&nbsp;
-   <img src="https://mobx.js.org/img/mobx.png" title="MobX" alt="MobX" width="42" height="42"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-plain.svg" title="MobX" alt="MobX" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="42" height="42"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="42" height="42"/>&nbsp;
