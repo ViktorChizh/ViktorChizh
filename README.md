@@ -10,7 +10,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="42" height="42"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
    <img src="https://static-00.iconduck.com/assets.00/brand-nextjs-icon-512x512-iz9ba3mc.png" title="NextJs" alt="NextJs" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, RTK, RTK-query" alt="Redux, RTK, RTK-query" width="42" height="42"/>&nbsp;
    <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="42" height="42"/>&nbsp;
