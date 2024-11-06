@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🎡 Nyan-Dash (private) https://github.com/Nyan-Dash </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎴 Inctagram https://github.com/somegram-frontend </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards https://github.com/Arenelin/-flash-cards- </br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/71321822?s=200&v=4" title="Addwine" alt="AddWine" width="16" height="16"/>&nbsp; AddWine (private) https://github.com/add-wine</br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/71321822?s=200&v=4" title="Addwine" alt="AddWine" width="16" height="16"/>&nbsp;&nbsp;AddWine (private) https://github.com/add-wine</br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Grand-Real-Estate/admin/blob/main/src/assets/icons/logo.svg" title="Grand-Real-Estate" alt="Grand-Real-Estate" width="16" height="16"/>&nbsp; Grand-Real-Estate (private) https://github.com/Grand-Real-Estate </br>
 
 [![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh) <a href="https://www.linkedin.com/in/ViktorChizh/"><img width="122" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"></a><img width="122" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>&nbsp;![](https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge) 
