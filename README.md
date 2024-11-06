@@ -24,8 +24,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="42" height="42"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42"/>&nbsp;
 </div>
-
-🎯 Моя цель: стать Full-stack developer </br>
+<!-- 🎯 Моя цель: стать Full-stack developer </br>-->
 🌐 Командные проекты:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🌍 Relocate (private) https://github.com/relotech </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🎡 Nyan-Dash (private) https://github.com/Nyan-Dash </br>
