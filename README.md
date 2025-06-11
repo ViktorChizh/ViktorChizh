@@ -22,6 +22,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="42" height="42"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="42" height="42"/>&nbsp;
 </div>
 <!-- 🎯 Моя цель: стать Full-stack developer </br>-->
@@ -40,7 +41,7 @@
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="42" height="42"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="42" height="42"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="42" height="42"/>&nbsp;-->
-<!--  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="42" height="42"/>&nbsp;-->
+
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;-->
 <!--  <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="42" height="42"/>&nbsp;-->
 <!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/500px-GitHub_Invertocat_Logo.svg.png" title="GitHub" alt="GitHub" width="42" height="42"/> -->
