@@ -42,7 +42,7 @@
   </a>
   
   <a href="https://www.codewars.com/users/ViktorChizh">
-    <img src="https://www.codewars.com/users/ViktorChizh/badges/large" style="width:122px; height:35px;" alt="Codewars"/>
+    <img src="https://www.codewars.com/users/ViktorChizh/badges/large" style="flex: 1; height:35px;" alt="Codewars"/>
   </a>
   
   <a href="https://www.linkedin.com/in/ViktorChizh">
