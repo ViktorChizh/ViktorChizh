@@ -42,6 +42,7 @@
 
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&langs_count=8&border_radius=10&show_owner=true&layout=compact&size_weight=1&card_width=300&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&border_radius=10&show_icons=true&hide_rank=true&line_height=24)&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!-- ℹ️ 🎯🛠️📲💫👨‍💻🌍 🖥️++💻 micro small-->
