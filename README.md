@@ -36,7 +36,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🍷 AddWine (private) https://github.com/add-wine</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🏡 Grand-Real-Estate (private) https://github.com/Grand-Real-Estate </br> -->
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; width: 900px;">
   <a href="https://komarev.com/ghpvc/?username=ViktorChizh">
     <img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:122px; height:35px;" alt="Profile Views"/>
   </a>
