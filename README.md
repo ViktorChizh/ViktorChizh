@@ -36,21 +36,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🍷 AddWine (private) https://github.com/add-wine</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🏡 Grand-Real-Estate (private) https://github.com/Grand-Real-Estate </br> -->
 
-<a href="https://komarev.com/ghpvc/?username=ViktorChizh">
-  <img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:122px; height:30px;" alt="Profile Views"/>
-</a>
-
-<a href="https://www.codewars.com/users/ViktorChizh">
-  <img src="https://www.codewars.com/users/ViktorChizh/badges/large" style="width:350px; height:30px;" alt="Codewars"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ViktorChizh">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=plastic" style="width:122px; height:30px; border-radius:5px;" alt="LinkedIn"/>
-</a>
-
-<a href="https://t.me/ViktorChizh">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" style="width:122px; height:30px; border-radius:5px;" alt="Telegram"/>
-</a>
+<a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:122px; height:35px;" alt="Profile Views"/></a>&nbsp;<a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" style="width:350px; height:35px;" alt="Codewars"/></a>&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=plastic" style="width:122px; height:35px; border-radius:5px;" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" style="width:122px; height:35px; border-radius:5px;" alt="Telegram"/></a>
 
 
 
