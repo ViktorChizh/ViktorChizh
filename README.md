@@ -14,6 +14,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NextJs" alt="NextJs" width="43" height="43"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="43" height="43"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, RTK, RTK-query" alt="Redux, RTK, RTK-query" width="43" height="43"/>&nbsp;
+   <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="43" height="43"/>&nbsp;
    <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo192.png" title="Zustand" alt="Zustand" width="43" height="43"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-plain.svg" title="MobX" alt="MobX" width="43" height="43"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="43" height="43"/>&nbsp;
@@ -53,6 +54,5 @@
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="43" height="43"/>&nbsp;-->
 <!--  <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="43" height="43"/>&nbsp;-->
 <!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/500px-GitHub_Invertocat_Logo.svg.png" title="GitHub" alt="GitHub" width="43" height="43"/> -->
-<!--   <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="43" height="43"/>&nbsp;-->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="43" height="43"/>&nbsp;-->
 ---
