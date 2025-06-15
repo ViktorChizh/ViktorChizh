@@ -23,8 +23,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
-   </div>
-   <div align="center">
+ </div>
+ <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -40,9 +40,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards https://github.com/Arenelin/-flash-cards- </br>
 &nbsp;&nbsp;&nbsp;&nbsp;🍷 AddWine (private) https://github.com/add-wine</br>
 &nbsp;&nbsp;&nbsp;&nbsp;🏡 Grand-Real-Estate (private) https://github.com/Grand-Real-Estate </br> -->
-<div align="center">
+
 <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:168px; height:40px; border-radius: 8px" alt="Profile Views"/></a>&nbsp;[![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:122px; height:40px;" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:122px; height:40px;" alt="Telegram"/></a>
-</div>
+
 
 
 
