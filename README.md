@@ -25,12 +25,12 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
    </div>
    <div align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <!-- 🎯 Моя цель: стать Full-stack developer </br>-->
 <!-- 🌐 Командные проекты:</br>
