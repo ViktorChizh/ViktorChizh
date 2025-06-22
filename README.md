@@ -32,14 +32,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-<!-- 🎯 Моя цель: стать Full-stack developer </br>-->
-<!-- 🌐 Командные проекты:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;🌍 Relocate (private) https://github.com/relotech </br>
-&nbsp;&nbsp;&nbsp;&nbsp;🎡 Nyan-Dash (private) https://github.com/Nyan-Dash </br>
-&nbsp;&nbsp;&nbsp;&nbsp;🎴 Inctagram https://github.com/somegram-frontend </br>
-&nbsp;&nbsp;&nbsp;&nbsp;🃏 FlashCards https://github.com/Arenelin/-flash-cards- </br>
-&nbsp;&nbsp;&nbsp;&nbsp;🍷 AddWine (private) https://github.com/add-wine</br>
-&nbsp;&nbsp;&nbsp;&nbsp;🏡 Grand-Real-Estate (private) https://github.com/Grand-Real-Estate </br> -->
 
 <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:168px; height:40px; border-radius: 8px" alt="Profile Views"/></a>&nbsp;[![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:122px; height:40px;" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:122px; height:40px;" alt="Telegram"/></a>
 
@@ -48,13 +40,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorChizh&langs_count=8&border_radius=10&show_owner=true&layout=compact&size_weight=1&card_width=300&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&theme=github_dark_dimmed&border_radius=10&show_icons=true&hide_rank=true&line_height=24)&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true)](https://git.io/streak-stats)
 
-<!-- ℹ️ 🎯🛠️📲💫👨‍💻🌍 🖥️++💻 micro small-->
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.50_icon.svg/120px-Visual_Studio_Code_1.50_icon.svg.png" title="VScode" alt="VScode" width="40" height="40"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;-->
-
-<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;-->
-<!--  <img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" title="Django" alt="Django" width="40" height="40"/>&nbsp;-->
-<!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/500px-GitHub_Invertocat_Logo.svg.png" title="GitHub" alt="GitHub" width="40" height="40"/> -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;-->
 ---
