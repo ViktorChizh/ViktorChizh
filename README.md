@@ -35,7 +35,7 @@
 
 ---
 
-### Стажировки:
+### Коммерческие стажировки:
 ### июнь 2024 - декабрь 2024 - публичный репозиторий - https://github.com/somegram-frontend
 ### апрель 2024 - май 2024 - публичный репозиторий - https://github.com/Arenelin/-flash-cards-
 ### июнь 2023 - декабрь 2023 - приватный репозиторий - https://github.com/relotech/relowebfrontend
