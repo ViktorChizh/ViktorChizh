@@ -47,8 +47,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViktorChizh&show_icons=true&hide_rank=true&line_height=24&theme=github_dark)](https://github.com/ViktorChizh)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViktorChizh&theme=github_dark_dimmed&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true)](https://git.io/streak-stats)
 
----
-
    <!-- <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
 
 
