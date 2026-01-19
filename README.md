@@ -47,7 +47,7 @@
 ### апрель 2024 - май 2024 - публичный репозиторий - https://github.com/Arenelin/-flash-cards-
 ### июнь 2023 - декабрь 2023 - приватный репозиторий - https://github.com/relotech/relowebfrontend
 
----
+
    <!-- <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
 
 
