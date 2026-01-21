@@ -42,10 +42,10 @@
 
 ---
 
-### Коммерческие стажировки:
-### июнь 2024 - декабрь 2024 - публичный репозиторий - https://github.com/somegram-frontend
-### апрель 2024 - май 2024 - публичный репозиторий - https://github.com/Arenelin/-flash-cards-
-### июнь 2023 - декабрь 2023 - приватный репозиторий - https://github.com/relotech/relowebfrontend
+<h2>Коммерческие стажировки:</h2>
+<h3>июнь 2024 - декабрь 2024 - публичный репозиторий - https://github.com/somegram-frontend</h3>
+<h3>апрель 2024 - май 2024 - публичный репозиторий - https://github.com/Arenelin/-flash-cards-</h3>
+<h3>июнь 2023 - декабрь 2023 - приватный репозиторий - https://github.com/relotech/relowebfrontend</h3>
 
 
    <!-- 👨‍💻 <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
