@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
 <div align="center"> 
-    <h3  align="start"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек технологий (всё, что возможно, подтверждено на hh.ru) 👨‍💻</h3>
+    <h3  align="start"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек технологий (всё, что возможно, подтверждено на hh.ru):</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -48,6 +48,6 @@
 ### июнь 2023 - декабрь 2023 - приватный репозиторий - https://github.com/relotech/relowebfrontend
 
 
-   <!-- <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
+   <!-- 👨‍💻 <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
 
 
