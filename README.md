@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
-  <h2>
-  <a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек технологий (всё, что возможно, подтверждено на hh.ru) 👨‍💻
-</h2>
+  <h3><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек технологий (всё, что возможно, подтверждено на hh.ru) 👨‍💻</h3>
 </div>
 <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
