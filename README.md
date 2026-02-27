@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250"  />
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
-<div align="center"> 
+<div align="center">
     <h3  align="start"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек технологий (всё, что возможно, подтверждено на hh.ru):</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="40" height="40"/>&nbsp;
@@ -28,10 +28,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>  
+</div>
  <div align="center">
    английский язык - В1
-</div>  
+</div>
 <br/>
 
 <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:168px; height:40px; border-radius: 8px" alt="Profile Views"/></a>&nbsp;[![codewars](https://www.codewars.com/users/ViktorChizh/badges/large)](https://www.codewars.com/users/ViktorChizh)&nbsp;<a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:122px; height:40px;" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:122px; height:40px;" alt="Telegram"/></a>
@@ -45,7 +45,4 @@
 <h4>апрель 2024 - май 2024 - публичный репозиторий - https://github.com/Arenelin/-flash-cards-</h4>
 <h4>июнь 2023 - декабрь 2023 - приватный репозиторий - https://github.com/relotech/relowebfrontend</h4>
 
-
-   <!-- 👨‍💻 <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
-
-
+<!-- 👨‍💻 <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
