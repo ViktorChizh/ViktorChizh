@@ -40,8 +40,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg  " title="Git" alt="Git" width="35" height="35"/>
         <h4>английский язык - В1</h4>
         <div>
-          <a href="https://komarev.com/ghpvc/?username=ViktorChizh  "><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge  " style="width:150px; height:35px; border-radius: 6px" alt="Profile Views"/></a>
-          <a href="https://www.codewars.com/users/ViktorChizh  "><img src="https://www.codewars.com/users/ViktorChizh/badges/large  " alt="Codewars" style="height:35px"/></a>
+          <a href="https://komarev.com/ghpvc/?username=ViktorChizh  "><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:150px; height:35px; border-radius: 6px" alt="Profile Views"/></a>
+          <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars" style="height:35px"/></a>
         </div>
       </div>
     </td>
