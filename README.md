@@ -13,7 +13,7 @@
       <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic  " style="width:100px; height:35px;" alt="Telegram"/></a>
     </td>
     <td>
-      <h3 align="center" style="margin: 0 0 10px 0;"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (что возможно, подтверждено на hh.ru):</h3>
+      <p align="center" style="margin: 10px 0;"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (что возможно, подтверждено на hh.ru):</p>
       <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg  " title="HTML5" alt="HTML5" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg  " title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="35" height="35"/>
