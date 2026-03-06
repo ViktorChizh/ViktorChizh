@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif  " width="100%" height="250" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250" />
   <img src="https://readme-typing-svg.herokuapp.com  ?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
 <table>
   <tr>
     <td align="center">
-      <a href="https://git.io/streak-stats  ">
-        <img src="https://streak-stats.demolab.com  ?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
       </a>
       <br/>
-      <a href="https://www.linkedin.com/in/ViktorChizh  "><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic  " style="width:100px; height:35px;" alt="LinkedIn"/></a>
-      <a href="https://t.me/ViktorChizh  "><img src="https://img.shields.io/badge/Telegram-blue?style=plastic  " style="width:100px; height:35px;" alt="Telegram"/></a>
+      <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:100px; height:35px;" alt="LinkedIn"/></a>
+      <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic  " style="width:100px; height:35px;" alt="Telegram"/></a>
     </td>
     <td>
-      <h3 align="center" style="margin-top=-10px"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (что возможно, подтверждено на hh.ru):</h3>
+      <h3 align="center" style="marginTop=-10px"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (что возможно, подтверждено на hh.ru):</h3>
       <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg  " title="HTML5" alt="HTML5" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg  " title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="35" height="35"/>
