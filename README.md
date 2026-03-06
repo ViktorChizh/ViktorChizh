@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap; padding: 10px;">
-  <div align="center" style="min-width: 300px; flex: 1; max-width: 600px;">
+  <div align="center" style="flex: 1; min-width: 300px; max-width: 700px;">
     <h3 align="start"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек технологий (всё, что возможно, подтверждено на hh.ru):</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="40" height="40"/>&nbsp;
@@ -22,27 +22,26 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
-    <div align="center" style="min-width: 300px; flex: 1; max-width: 600px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-     </div>
     <div style="margin-top: 8px;">английский язык - В1</div>
+    <div style="margin-top: 10px;">
+      <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:168px; height:40px; border-radius: 8px" alt="Profile Views"/></a>&nbsp;
+      <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars"/></a>&nbsp;
+      <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:122px; height:40px;" alt="LinkedIn"/></a>&nbsp;
+      <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:122px; height:40px;" alt="Telegram"/></a>
+    </div>
   </div>
-  <div align="center" style="margin-top: 10px;">
-  <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:168px; height:40px; border-radius: 8px" alt="Profile Views"/></a>&nbsp;
-  <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:122px; height:40px;" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:122px; height:40px;" alt="Telegram"/></a>
-</div>
-  <div style="display: flex; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
     </a>
   </div>
+  
 </div>
 
 
