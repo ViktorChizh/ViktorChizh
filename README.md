@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center"  style="display: flex;">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250" />
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
@@ -44,7 +44,6 @@
       <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
     </a>
   </div>
-  
 </div>
 
 
