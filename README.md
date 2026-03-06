@@ -10,11 +10,11 @@
         <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
       </a>
       <br/>
-      <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:90px; height:35px;" alt="LinkedIn"/></a>
-      <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:90px; height:35px;" alt="Telegram"/></a>
+      <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:95px; height:35px;" alt="LinkedIn"/></a>
+      <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:95px; height:35px;" alt="Telegram"/></a>
     </td>
     <td>
-      <h3 align="center"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (всё, что возможно, подтверждено на hh.ru):</h3>
+      <h3 align="center"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (что возможно, подтверждено на hh.ru):</h3>
       <div align="center">
         <!-- Frontend -->
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>
