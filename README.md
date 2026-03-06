@@ -37,7 +37,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
       <div>английский язык - В1</div>
       <div style="margin-top: 10px;">
-        
         <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars" style="height:35px"/></a>
         <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:100px; height:35px;" alt="LinkedIn"/></a>
         <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:100px; height:35px;" alt="Telegram"/></a>
