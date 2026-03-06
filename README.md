@@ -42,7 +42,7 @@
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
 </a>
-<br/>
+<br/><br/>
 <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:100px; height:35px;" alt="LinkedIn"/></a>
 <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic  " style="width:100px; height:35px;" alt="Telegram"/></a>
  </td>
