@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center">
-      <br/><br/>
+      <br/>
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
       </a>
@@ -39,7 +39,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg  " title="MongoDB" alt="MongoDB" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg  " title="Docker" alt="Docker" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg  " title="Git" alt="Git" width="35" height="35"/>
-        <h4>английский язык - В1</h4>
+        <h4>английский язык - В1</h4><br/>
         <div>
           <a href="https://komarev.com/ghpvc/?username=ViktorChizh  "><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:150px; height:35px; border-radius: 6px" alt="Profile Views"/></a>
           <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars" style="height:35px"/></a>
