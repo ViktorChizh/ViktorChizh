@@ -4,7 +4,8 @@
 </div>
 <table>
   <tr>
-    <td align="center" style="padding: 20px 0 0;">
+    <td align="center">
+      <br/><br/>
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
       </a>
