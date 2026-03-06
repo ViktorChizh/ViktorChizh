@@ -4,12 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: nowrap;">
-    <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0;">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=highcontrast&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/>
     </a>
   </div>
-  <div align="center" style="flex: 1; min-width: 280px; max-width: 400px;">
+  <div align="center" style="flex: 1;">
     <h3 align="start" style="font-size: 14px; margin: 0 0 10px 0;"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек технологий (всё, что возможно, подтверждено на hh.ru):</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="35" height="35"/>&nbsp;
@@ -41,8 +41,6 @@
       <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic" style="width:100px; height:35px;" alt="Telegram"/></a>
     </div>
   </div>
-
-  
 </div>
 
 
