@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="250" />
   <img src="https://readme-typing-svg.herokuapp.com  ?color=blue&lines=Hi,+I`m+Viktor+-+Frontend+developer.">
 </div>
-<table>
+<table style="border: none">
   <tr>
  <td>
 <h3 align="center"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (что возможно, подтверждено на hh.ru):</h3>
