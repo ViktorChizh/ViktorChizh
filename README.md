@@ -33,6 +33,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="35" height="35"/>
         <br/>
         <!-- Backend/Tools -->
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="35" height="35"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="35" height="35"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35"/>
@@ -58,5 +60,4 @@
 
 <!-- 👨‍💻 <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-plain.svg" title="MobX" alt="MobX" width="35" height="35"/> -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="35" height="35"/> -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="35" height="35"/> -->
+
