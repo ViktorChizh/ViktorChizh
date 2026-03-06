@@ -21,7 +21,6 @@
   <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="35" height="35"/>
-  <br/><br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="35" height="35"/>
@@ -30,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
-  <h5>английский язык - В1</h5><br/>
+  <h3>английский язык - В1</h3><br/>
   <div>
   <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:150px; height:35px; border-radius: 6px" alt="Profile Views"/></a>
   <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars" style="height:35px"/></a>
