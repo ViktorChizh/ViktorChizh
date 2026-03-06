@@ -27,7 +27,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, RTK, RTK-query" alt="Redux, RTK, RTK-query" width="35" height="35"/>
         <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo192.png" title="Zustand" alt="Zustand" width="35" height="35"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-plain.svg" title="MobX" alt="MobX" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="35" height="35"/>
         <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>
@@ -61,3 +60,4 @@
 <h4>июнь 2023 - декабрь 2023 - приватный репозиторий - https://github.com/relotech/relowebfrontend</h4>
 
 <!-- 👨‍💻 <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" title="Redux-Saga" alt="Redux-Saga" width="40" height="40"/>&nbsp; -->
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-plain.svg" title="MobX" alt="MobX" width="35" height="35"/> -->
