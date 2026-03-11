@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
-  <h3>английский язык - В1</h3>
+  <h2>английский язык - В1</h2>
 </div>
  </td>
  <td align="center">
