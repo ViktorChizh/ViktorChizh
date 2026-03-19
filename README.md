@@ -30,7 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
-  <h3>английский язык - В1</h3>
+  <h4>английский язык - В1</h4>
+  <p>Дополнительно осваиваю 1С направление - все .dt файлы в репозитории 1С_github</p>
 </div>
  </td>
  <td align="center">
@@ -47,6 +48,7 @@
   <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:150px; height:35px; border-radius: 6px" alt="Profile Views"/></a>
   <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars" style="height:35px"/></a>
   </div>
+  
 <h3>Коммерческие стажировки:</h3>
 <h4>июнь 2024 - декабрь 2024 - публичный репозиторий - https://github.com/somegram-frontend  </h4>
 <h4>апрель 2024 - май 2024 - публичный репозиторий - https://github.com/Arenelin/-flash-cards-  </h4>
