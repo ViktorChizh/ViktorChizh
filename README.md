@@ -4,7 +4,6 @@
 </div>
 <table  width="100%">
   <tr>
-    <td width="50%"></td>
  <td>
 <h3 align="center"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (что возможно, подтверждено на hh.ru):</h3><br/>
 <div align="center">
@@ -41,7 +40,6 @@
   <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=nordfox&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/><br/><br/>
 </a>
  </td>
-    <td width="50%"></td>
   </tr>
 <tr>
   <td width="50%"></td>
