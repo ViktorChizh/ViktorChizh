@@ -4,6 +4,7 @@
 </div>
 <table  width="100%">
   <tr>
+    <td width="50%"></td>
  <td>
 <h3 align="center"><a href='http://viktorchizh.github.io/portfolio/'>ℹ Portfolio</a> и мой стек (что возможно, подтверждено на hh.ru):</h3><br/>
 <div align="center">
@@ -40,8 +41,10 @@
   <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=nordfox&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/><br/><br/>
 </a>
  </td>
+    <td width="50%"></td>
   </tr>
 <tr>
+  <td width="50%"></td>
   <td colspan="2" align="justify">
         <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:150px;          
         height:35px; border-radius: 6px" alt="Profile Views"/></a>
@@ -50,6 +53,7 @@
       height:35px;" alt="LinkedIn"/></a>
     <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic  " style="width:100px; height:35px;" alt="Telegram"/></a>
   </td>
+  <td width="50%"></td>
 </tr>
 </table>
   
