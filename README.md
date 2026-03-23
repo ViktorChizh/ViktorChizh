@@ -41,15 +41,17 @@
 </a>
  </td>
   </tr>
-</table>
-  <div>
-    <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:150px;          
+<tr>
+  <td>
+        <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:150px;          
         height:35px; border-radius: 6px" alt="Profile Views"/></a>
     <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars" style="height:35px"/></a>
     <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:100px; 
       height:35px;" alt="LinkedIn"/></a>
     <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic  " style="width:100px; height:35px;" alt="Telegram"/></a>
-  </div>
+  </td>
+</tr>
+</table>
   
 <h3>Коммерческие стажировки:</h3>
 <h4>июнь 2024 - декабрь 2024 - публичный репозиторий - https://github.com/somegram-frontend  </h4>
