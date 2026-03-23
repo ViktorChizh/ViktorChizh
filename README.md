@@ -42,7 +42,7 @@
  </td>
   </tr>
 <tr>
-  <td colspan="2">
+  <td colspan="2" align="justify">
         <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:150px;          
         height:35px; border-radius: 6px" alt="Profile Views"/></a>
     <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars" style="height:35px"/></a>
