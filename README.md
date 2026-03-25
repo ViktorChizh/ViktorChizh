@@ -49,7 +49,7 @@
     <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:100px; 
       height:35px;" alt="LinkedIn"/></a>
     <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic  " style="width:100px; height:35px;" alt="Telegram"/></a>
-    <a href="viber://contact?number=375297230090"><img src="https://img.shields.io/badge/Viber-8A2BE2?style=plastic  " style="width:100px; height:35px;" alt="Viber"/></a>
+    <a href="https://vb.me/375297230090"><img src="https://img.shields.io/badge/Viber-8A2BE2?style=plastic  " style="width:100px; height:35px;" alt="Viber"/></a>
   </td>
 </tr>
 </table>
