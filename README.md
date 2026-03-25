@@ -43,13 +43,12 @@
   </tr>
 <tr>
   <td colspan="2" align="justify">
-        <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:200px;          
+        <a href="https://komarev.com/ghpvc/?username=ViktorChizh"><img src="https://komarev.com/ghpvc/?username=ViktorChizh&style=for-the-badge" style="width:350px;          
         height:35px; border-radius: 6px" alt="Profile Views"/></a>
     <a href="https://www.codewars.com/users/ViktorChizh"><img src="https://www.codewars.com/users/ViktorChizh/badges/large" alt="Codewars" style="height:35px"/></a>
     <a href="https://www.linkedin.com/in/ViktorChizh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic" style="width:100px; 
       height:35px;" alt="LinkedIn"/></a>
     <a href="https://t.me/ViktorChizh"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic  " style="width:100px; height:35px;" alt="Telegram"/></a>
-    <a href="tel:+375297230090"><img src="https://img.shields.io/badge/Viber-8A2BE2?style=plastic  " style="width:100px; height:35px;" alt="Viber"/></a>
   </td>
 </tr>
 </table>
