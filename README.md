@@ -31,11 +31,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
   <h4>английский язык - В1</h4>
-  <img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="Git" alt="Git" width="35" height="25"/>&nbsp;&nbsp; Осваиваю 1С направление - все .dt файлы в репозитории 1С_github
+  <img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="Git" alt="Git" width="35" height="30"/>&nbsp;&nbsp; Осваиваю 1С направление - все .dt файлы в репозитории 1С_github
 </div>
  </td>
  <td align="center">
-<br/>
+<br/><br/>
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=nordfox&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/><br/><br/>
 </a>
