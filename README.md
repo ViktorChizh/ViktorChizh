@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
   <h4>английский язык - В1</h4>
-  <p><img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="Git" alt="Git" width="35" height="35"/> Дополнительно осваиваю 1С направление - все .dt файлы в репозитории 1С_github</p>
+  <p><img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="Git" alt="Git" width="35" height="35"/> Осваиваю 1С направление - все .dt файлы в репозитории 1С_github</p>
 </div>
  </td>
  <td align="center">
