@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="1С" alt="1С" width="35" height="35"/>&nbsp;&nbsp; Осваиваю 1С направление - все .dt файлы в репозитории 1С_github
 </div>
  </td>
- <td align="center"  min-width="50px">
+ <td align="center"  min-width="100px">
 <br/><br/>
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=nordfox&border_radius=10&mode=weekly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/><br/><br/>
