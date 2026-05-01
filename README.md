@@ -31,7 +31,7 @@
   <!-- <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="35" height="35"/> -->
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="35" height="35"/> -->
   <h4>английский язык - В1</h4>
-  <img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="1С" alt="1С" width="35" height="35"/>&nbsp;&nbsp; Осваиваю 1С направление - все .dt файлы в репозитории 1С_github
+  <img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="1С" alt="1С" width="35" height="35"/>
 </div>
  </td>
  <td align="center">
