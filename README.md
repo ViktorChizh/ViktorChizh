@@ -54,7 +54,7 @@
 </table>
   
 <h3>Коммерческие стажировки:</h3>
-<h4>март 2025 - апрель 2025 - стажировка по 1С - https://github.com/ViktorChizh/1C_github -  дали оффер и я принял </h4>
+<h4>март 2025 - апрель 2025 - стажировка по 1С в MigSoft- https://github.com/ViktorChizh/1C_github -  дали оффер и я принял </h4>
 <h4>июнь 2024 - декабрь 2024 - публичный репозиторий - https://github.com/somegram-frontend  </h4>
 <h4>апрель 2024 - май 2024 - публичный репозиторий - https://github.com/Arenelin/-flash-cards-  </h4>
 <h4>июнь 2023 - декабрь 2023 - приватный репозиторий - https://github.com/relotech/relowebfrontend  </h4>
