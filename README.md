@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux, RTK, RTK-query" alt="Redux, RTK, RTK-query" width="35" height="35"/>
   <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo192.png" title="Zustand" alt="Zustand" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="35" height="35"/>
-  <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="35" height="35"/>
@@ -28,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
+  <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="35" height="35"/>
   <h4>английский язык - В1</h4>
   <img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="1С" alt="1С" width="35" height="35"/>&nbsp;&nbsp; Осваиваю 1С направление - все .dt файлы в репозитории 1С_github
 </div>
