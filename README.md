@@ -31,13 +31,13 @@
   <!-- <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled components" alt="Styled components" width="35" height="35"/> -->
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" title="SQL" alt="SQL" width="35" height="35"/> -->
   <h4>английский язык - В1</h4>
-  <img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="1С" alt="1С" width="35" height="35"/> <p> работаю в даггый момент, поэтому активность тут упала</p>
+  <p> <img src="https://img.icons8.com/?size=160&id=UW1OXZtVotdi&format=png" title="1С" alt="1С" width="35" height="35"/> работаю в данный момент с 1С, поэтому активность тут упала</p>
 </div>
  </td>
  <td align="center">
 <br/><br/>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=nordfox&border_radius=10&mode=yearly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/><br/><br/>
+  <img src="https://streak-stats.demolab.com?user=ViktorChizh&theme=nordfox&border_radius=10&mode=dayly&card_height=190&card_width=215&hide_longest_streak=true" alt="GitHub Streak"/><br/><br/>
 </a>
  </td>
   </tr>
